@@ -7,6 +7,7 @@
 * Ruby on Rails 6.1.4
 * HTML5 and Sass
 * PostgreSQL
+* Testing: Minitest 5.14.4
 * Code Bundler: Vite Ruby
 
 ## Setup
@@ -14,7 +15,7 @@
 How to run tests:
 
 ```
-% rspec spec
+% rails test
 ```
 
 How to run the development console:

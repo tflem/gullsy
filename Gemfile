@@ -24,5 +24,10 @@ group :development do
   gem 'listen', '~> 3.3'
 end
 
+group :test do
+  gem 'minitest', '~> 5.14', '>= 5.14.4'
+  gem 'minitest-reporters', '~> 1.4', '>= 1.4.3'
+end
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

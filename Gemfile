@@ -32,6 +32,8 @@ group :test do
   gem 'rails-controller-testing', '~> 1.0', '>= 1.0.5'
   gem 'minitest', '~> 5.14', '>= 5.14.4'
   gem 'minitest-reporters', '~> 1.4', '>= 1.4.3'
+  gem 'simplecov', '~> 0.21.2'
+  gem 'simplecov_json_formatter', '~> 0.1.3'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

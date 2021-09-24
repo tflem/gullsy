@@ -5,6 +5,7 @@ import WindiCSS from "vite-plugin-windicss";
 export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1500,
+    sourcemap: false,
     rollupOptions: {
       output: {
         manualChunks(id) {
@@ -36,8 +37,6 @@ export default defineConfig({
         ],
         dirs: ["app/views", "app/javascript"],
       },
-      safelist: "prose prose-sm m-auto",
-      transformGroups: false,
     }),
   ],
 });

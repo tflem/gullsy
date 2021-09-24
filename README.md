@@ -1,3 +1,7 @@
+![CCB Tracker workflow](https://github.com/tflem/gullsy/actions/workflows/gullsy.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0a97ac093d7e63961675/maintainability)](https://codeclimate.com/github/tflem/gullsy/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/0a97ac093d7e63961675/test_coverage)](https://codeclimate.com/github/tflem/gullsy/test_coverage)
+
 # Gullsy - Caw! Caw!
 
 > A social media application similar to Twitter. I initially wanted to build this with PHP Laravel (Seagully), but Ruby and Rails is more fun. I'm using the following tools:

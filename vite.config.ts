@@ -36,6 +36,8 @@ export default defineConfig({
         ],
         dirs: ["app/views", "app/javascript"],
       },
+      safelist: "prose prose-sm m-auto",
+      transformGroups: false,
     }),
   ],
 });

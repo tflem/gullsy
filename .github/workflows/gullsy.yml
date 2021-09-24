@@ -33,6 +33,7 @@ jobs:
         run: |
           gem install bundler
           bundle install
+          bundle exec vite install
 
       - name: Setup Database
         run: |

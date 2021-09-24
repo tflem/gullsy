@@ -1,2 +1,3 @@
 vite: bin/vite dev
+worker: bundle exec vite install
 web: bundle exec puma -C config/puma.rb

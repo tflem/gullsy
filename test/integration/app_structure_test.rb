@@ -5,5 +5,7 @@ class AppStructureTest < ActionDispatch::IntegrationTest
     get root_path
     assert_template "welcome/index"
     assert_select "a[href=?]", root_path
+    get signup_path    
+    assert_select "title", full_title("Sign Up")
   end
 end

@@ -5,6 +5,6 @@ class WelcomeControllerTest < ActionDispatch::IntegrationTest
   	get root_path
     assert_response :success
     assert_select "title", "Gullsy - An Alternative Bird App"
-  	assert_select "h1", "Welcome to Gullsy. Caw Caw!"  	
+  	assert_select "h1", "Welcome to Gullsy. Caw Caw!"    
   end
 end

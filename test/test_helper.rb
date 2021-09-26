@@ -3,13 +3,16 @@ require "simplecov_json_formatter"
 
 SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
 
-SimpleCov.start
+SimpleCov.start do
+  add_filter "test"
+end
 
 ENV['RAILS_ENV'] ||= 'test'
 require_relative "../config/environment"
 require "rails/test_help"
 require "minitest/reporters"
 Minitest::Reporters.use!
+
 
 class ActiveSupport::TestCase
   # Run tests in parallel with specified workers
@@ -19,4 +22,5 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # Add more helper methods to be used by all tests here...
+  include WelcomeHelper
 end

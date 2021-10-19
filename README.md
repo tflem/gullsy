@@ -13,7 +13,7 @@
 - PostgreSQL
 - Testing: Minitest 5.14.4
 - CSS Framework: Windi CSS
-- Code Bundler: Vite Ruby
+- Code Bundler: Vite ⚡️ Ruby
 
 ## Setup
 

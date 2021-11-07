@@ -6,14 +6,14 @@
 
 > This a social media application similar to Twitter. Initially, I wanted to build this with PHP Laravel (Seagully), but Ruby and Rails is just so much more fun. I'm using the following tools:
 
-- Ruby 3.0.2
-- Continuous Integration/Deployment: Github Actions/Heroku
+- CSS Framework: Windi CSS 3.1.7
 - Ruby on Rails 6.1.4
+- Ruby 3.0.2
 - HTML5 and Sass
-- PostgreSQL 13.4
+- PostgreSQL (Tested for 13.x)
 - Testing: Minitest 5.14.4
-- CSS Framework: Windi CSS
 - Code Bundler: Vite ⚡️ Ruby
+- Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup
 
@@ -43,4 +43,4 @@ How to prepare (create and migrate) DB for `development` and `test` environments
 % rails db:migrate
 ```
 
-You can view a staged demo at http://gullsy.herokuapp.com.
+The application is viewable at http://gullsy.herokuapp.com.

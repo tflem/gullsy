@@ -12,7 +12,7 @@
 - HTML5 and Sass
 - PostgreSQL (Tested for 13.x)
 - Testing: Minitest 5.14.4
-- Code Bundler: Vite ⚡️ Ruby (2.6.13, 3.0.3)
+- Code Bundler: Vite ⚡️ Ruby (2.6.14, 3.0.3)
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup

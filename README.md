@@ -20,19 +20,19 @@
 How to run tests:
 
 ```
-% rails test
+% rails test or rails t for short
 ```
 
 How to run the development console:
 
 ```
-% rails console
+% rails console or rails c for short
 ```
 
 How to run the development server:
 
 ```
-% rails server
+% rails server or rails s for short
 ```
 
 How to prepare (create and migrate) DB for `development` and `test` environments:

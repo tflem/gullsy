@@ -29,7 +29,7 @@ group :test do
   gem 'minitest', '~> 5.14', '>= 5.14.4'
   gem 'minitest-reporters', '~> 1.4', '>= 1.4.3'
   gem 'simplecov', '~> 0.21.2'
-  gem 'simplecov_json_formatter', '~> 0.1.3'
+  gem 'simplecov_json_formatter', '~> 0.1.4'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

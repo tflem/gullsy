@@ -6,14 +6,14 @@
 
 > This a social media application similar to Twitter. Initially, I wanted to build this with PHP Laravel (Seagully), but Ruby on Rails is just so much more fun. I'm using the following tools:
 
-- CSS Framework: Windi CSS 3.4.3
-- Font Awesome: 6.0.0
-- Ruby on Rails 6.1.4.4
-- Ruby 3.1.0
-- HTML5 and Sass 1.49.7
+- CSS Framework: Windi CSS 3.5.1
+- Font Awesome: 6.1.1
+- Ruby on Rails 7.0.2.3
+- Ruby 3.1.1
+- HTML5 and Sass 1.49.9
 - PostgreSQL (Tested for 13.x)
 - Testing: Minitest 5.15.0
-- Code Bundler: Vite ⚡️ Ruby (2.8.0, 3.0.8)
+- Code Bundler: Vite ⚡️ Ruby (2.8.6, 3.0.8)
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup

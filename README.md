@@ -8,12 +8,12 @@
 
 - CSS Framework: Windi CSS 3.5.6
 - Font Awesome: 6.1.1
-- Ruby on Rails 7.0.3
+- Ruby on Rails 7.0.3.1
 - Ruby 3.1.2
 - HTML5 and Sass 1.53.0
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest 5.16.2
-- Code Bundler: Vite ⚡️ Ruby (2.9.14, 3.0.12)
+- Code Bundler: Vite ⚡️ Ruby (3.0.0, 3.1.2)
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup

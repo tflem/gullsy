@@ -12,8 +12,8 @@
 - Ruby 3.1.2
 - HTML5 and Sass 1.54.4
 - PostgreSQL (Tested for 14.x)
-- Testing: Minitest 5.16.2
-- Code Bundler: Vite ⚡️ Ruby (3.0.7, 3.1.2)
+- Testing: Minitest 5.16.3
+- Code Bundler: Vite ⚡️ Ruby (3.0.9, 3.1.2)
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup

@@ -4,7 +4,7 @@
 
 # Gullsy - Caw Caw!
 
-> This a social media application similar to Twitter. Initially, I wanted to build this with PHP Laravel (Seagully), but Ruby on Rails is just so much more fun. I'm using the following tools:
+> This is supposed (slow work in progress) to be a social media application similar to Twitter. Initially, I wanted to build this with PHP Laravel (Seagully), but building with Ruby on Rails is just more fun. I'm using the following tools:
 
 - CSS Framework: Windi CSS 3.5.6
 - Font Awesome: 6.2.1

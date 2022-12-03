@@ -106,8 +106,11 @@ GEM
     loofah (2.19.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
-    mail (2.7.1)
+    mail (2.8.0)
       mini_mime (>= 0.1.1)
+      net-imap
+      net-pop
+      net-smtp
     marcel (1.0.2)
     matrix (0.4.2)
     method_source (1.0.0)
@@ -211,7 +214,7 @@ GEM
     vite_rails (3.0.13)
       railties (>= 5.1, < 8)
       vite_ruby (~> 3.0, >= 3.2.2)
-    vite_ruby (3.2.11)
+    vite_ruby (3.2.12)
       dry-cli (~> 0.7.0)
       rack-proxy (~> 0.6, >= 0.6.1)
       zeitwerk (~> 2.2)

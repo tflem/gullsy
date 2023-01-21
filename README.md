@@ -8,7 +8,7 @@
 
 - CSS Framework: Windi CSS 3.5.6
 - Font Awesome: 6.2.1
-- Ruby on Rails 7.0.4
+- Ruby on Rails 7.0.4.1
 - Ruby 3.1.2
 - HTML5 and Sass 1.57.1
 - PostgreSQL (Tested for 14.x)

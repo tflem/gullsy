@@ -7,7 +7,7 @@
 > This is supposed (slow work in progress) to be a social media application similar to Twitter. Initially, I wanted to build this with PHP Laravel (Seagully), but building with Ruby on Rails is just more fun. I'm using the following tools:
 
 - CSS Framework: Windi CSS 3.5.6
-- Font Awesome: 6.3.0
+- Font Awesome: 6.4.0
 - Ruby on Rails 7.0.4.3
 - Ruby 3.1.2
 - HTML5 and Sass 1.60.0

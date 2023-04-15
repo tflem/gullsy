@@ -10,7 +10,7 @@
 - Font Awesome: 6.4.0
 - Ruby on Rails 7.0.4.3
 - Ruby 3.1.2
-- HTML5 and Sass 1.61.0
+- HTML5 and Sass 1.62.0
 - PostgreSQL (Tested for 15.x)
 - Testing: Minitest 5.18.0
 - Code Bundler: Vite ⚡️ Ruby (4.2.1, 3.2.1)

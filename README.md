@@ -13,7 +13,7 @@
 - HTML5 and Sass 1.63.6
 - PostgreSQL (Tested for 15.x)
 - Testing: Minitest 5.18.1
-- Code Bundler: Vite ⚡️ Ruby Plug-in (4.4.2, 3.2.2)
+- Code Bundler: Vite ⚡️ Ruby Plug-in (4.4.4, 3.2.2)
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup

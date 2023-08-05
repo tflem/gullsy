@@ -3,16 +3,16 @@
     "node": "18.x"
   },
   "devDependencies": {
-    "@types/node": "^20.4.5",
-    "sass": "^1.64.1",
+    "@types/node": "^20.4.8",
+    "sass": "^1.64.2",
     "typescript": "^5.1.6",
-    "vite": "^4.4.7",
+    "vite": "^4.4.8",
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-ruby": "^3.2.2",
     "vite-plugin-windicss": "^1.9.0",
     "windicss": "^3.5.6"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.4.0"
+    "@fortawesome/fontawesome-free": "^6.4.2"
   }
 }

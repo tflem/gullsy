@@ -3,10 +3,10 @@
     "node": "18.x"
   },
   "devDependencies": {
-    "@types/node": "^20.8.0",
-    "sass": "^1.68.0",
+    "@types/node": "^20.8.3",
+    "sass": "^1.69.0",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9",
+    "vite": "^4.4.11",
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-ruby": "^3.2.2",
     "vite-plugin-windicss": "^1.9.1",
